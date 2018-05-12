@@ -1,0 +1,39 @@
+_repo: The-Burglars-Club--A-Romance-in-Twelve-Chronicles_40897
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Townsend, F. H. (Frederick Henry)
+    aliases:
+    - Townsend, Frederick Henry
+    - Townsend, F.H.
+    birthdate: 1868
+    deathdate: 1920
+    gutenberg_agent_id: '9854'
+    url: http://www.gutenberg.org/2009/agents/9854
+covers:
+- cover_type: archival
+  image_path: 40897-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hering, Henry Augustus
+    alias: Hering, Henry A.
+    birthdate: 1864
+    gutenberg_agent_id: '40886'
+    url: http://www.gutenberg.org/2009/agents/40886
+description: ''
+gutenberg_issued: '2012-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40897'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Burglars -- Fiction'
+- !lcsh 'Clubs -- Fiction'
+- !lcsh 'Aristocracy (Social class) -- England -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+title: 'The Burglars'' Club: A Romance in Twelve Chronicles'
+url: http://www.gutenberg.org/ebooks/40897
